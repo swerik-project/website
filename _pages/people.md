@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /people/
-title: people
+title: People
 description: Here are all the cool people who work in the project!
 nav: true
 nav_order: 3
