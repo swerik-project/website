@@ -4,6 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: SWERIK
+long_name: "Swedish Riksdag 1867–2022: An Ecosystem of Linked Open Data (SWERIK)"
 last_name: ""
 email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -145,9 +146,9 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+#external_sources:
+#  - name: medium.com
+#    rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections

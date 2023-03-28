@@ -6,7 +6,7 @@ layout: default
       <div class="post">
         <header class="post-header">
           <h1 class="post-title">
-           {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
+           {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.long_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
           </h1>
           <p class="desc">{{ page.subtitle }}</p>
         </header>
@@ -40,17 +40,19 @@ layout: default
             {{ content }}
           </div>
 
-          <!-- News -->
+          <!-- News
           {% if page.news -%}
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
             {%- include news.html %}
           {%- endif %}
+          -->
 
-          <!-- Selected papers -->
+          <!-- 
           {% if page.selected_papers -%}
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
+          Selected papers -->
 
           <!-- Social -->
           {%- if page.social %}
@@ -65,6 +67,13 @@ layout: default
               
             </div>
           {%- endif %}
+          <div class="social">
+            <a href="https://mau.se/"><img src='https://upload.wikimedia.org/wikipedia/commons/5/5b/Malmö_universitets_logotyp_med_engelskt_namn.png' style="height: 64px; margin: 10px;"></a>
+            <a href="https://www.uu.se/"><img src='https://upload.wikimedia.org/wikipedia/commons/d/dc/UU_logo.jpg' style="height: 64px; margin: 10px;"></a>
+            <a href="https://www.riksdagen.se/sv/riksdagsbiblioteket/"><img src='assets/img/sverigesriksdag.png' style="height: 64px; margin: 10px;"></a>
+            <a href="https://rj.se/"><img src='https://www.expertsvar.se/wp-content/uploads/2015/02/riksbankens-1024x325.png' style="height:64px; margin: 10px;"></a>
+            
+          </div>
         </article>
 
 </div>
