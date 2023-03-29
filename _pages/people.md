@@ -10,7 +10,7 @@ nav_order: 3
 {% if site.data.people.people %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for user in site.data.people.people %}
-    {% include people/person.html username=user.full_name description=user.description %}
+    {% include people/person.html username=user.full_name image=user.image description=user.description %}
   {% endfor %}
 </div>
 {% endif %}
