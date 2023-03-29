@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SWERIK has officially started!
-date:   2023-03-29 19:44:16
+date:   2023-03-29 00:44:16
 description: project starting up
 tags: formatting links
 categories: sample-posts
