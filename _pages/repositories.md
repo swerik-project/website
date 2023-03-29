@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: Repositories
+title: "Data & Code"
 description: Data and source code associated with the SWERIK project
 nav: true
 nav_order: 3
