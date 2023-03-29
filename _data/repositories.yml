@@ -1,6 +1,5 @@
-#github_users:
-# TODO: add project GH page
-#  - ninpnin
+github_users:
+  - swerik-project
 
 github_repos:
   - ninpnin/swerik-website
