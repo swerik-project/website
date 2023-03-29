@@ -1,30 +1,12 @@
 ---
 layout: post
-title:  a post with formatting and links
-date:   2015-03-15 16:40:16
-description: march & april, looking forward to summer
+title: SWERIK has officially started!
+date:   2023-03-29 19:44:16
+description: project starting up
 tags: formatting links
 categories: sample-posts
 ---
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+SWERIK started officially on March 1, 2023, the same day when PI Fredrik Mohammadi Norén started his new position as an assistant professor in media and communication at Malmö University. However, the work of curating the Swedish parliamentary speeches has been going on since 2020 within the [Welfare State Analytics project](https://www.westac.se/en/), in which Fredrik, Måns Magnusson, and Väinö Yrjänäinen also work. Hence, a [pilot corpus](https://github.com/welfare-state-analytics/riksdagen-corpus) of parliamentary speeches between 1920–2020 already existed when SWERIK started, with above 90 % estimated accuracy for the identification of speakers. 
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
-<hr>
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-<blockquote>
-    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-    —Anais Nin
-</blockquote>
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Now, we have started to import speech data from 1867 to 1919. In version release 0.7, the corpus includes speech data from 1890 to today. Simultaneously, we continue to build the database with members of parliament (MP). The aim is to soon have all MPs in the database, which is a work we do in collaboration with Wikidata volunteers. Then we will start to add relevant metadata to MPs and improve the mapping of MPs to their speeches in the chambers.
