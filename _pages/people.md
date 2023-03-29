@@ -2,7 +2,7 @@
 layout: page
 permalink: /people/
 title: Participants
-description: Here are all the cool people who work in the project!
+description: ""
 nav: true
 nav_order: 3
 ---
