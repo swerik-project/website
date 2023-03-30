@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /repositories/
+permalink: /data-and-code/
 title: "Data & Code"
 description: Data and source code associated with the SWERIK project
 nav: true
